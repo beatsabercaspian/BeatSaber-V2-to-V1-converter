@@ -11,7 +11,7 @@ A powerful Python script designed specifically for **Legacy Beat Saber (v0.12.2)
 ## 🚀 How to Use
 1. Download `v1converter.py` and place it inside your Beat Saber song folder.
 2. Ensure you have **Python** installed.
-3. Open a terminal/command prompt in that folder.
+3. Type "cmd" in the adress bar of your song folder.
 4. Run the script:
    ```bash
    python v1converter.py
