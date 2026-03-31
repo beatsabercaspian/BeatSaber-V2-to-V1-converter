@@ -1,4 +1,4 @@
-# 🎵 Beat Saber Ultra-Converter (v2 to v1)
+# 🎵 Beat Saber Song Converter (v2 to v1)
 
 A powerful Python script designed specifically for **Legacy Beat Saber (v0.12.2)** players. This script automates the tedious process of converting modern map formats back to the original legacy format.
 
