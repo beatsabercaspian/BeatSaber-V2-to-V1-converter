@@ -6,7 +6,7 @@ A powerful Python script designed for **Legacy Beat Saber**. This script automat
 * **Format Conversion**: Converts `info.dat` to `info.json` and `.dat` map files to `1.5.0` `.json`.
 * **Audio Fixer**: Automatically renames `.egg` files to `.ogg` and updates the internal metadata.
 * **Auto-Cleanup**: Deletes old `.dat` and `.egg` files automatically after a successful conversion.
-* **Compatibility**: Works perfectly with **Mapping Extensions** on version 0.12.2!
+* **Compatibility**: Works perfectly with 0.13.2 and under!
 
 ## 🚀 How to Use
 1. Download `v1converter.py` and place it inside your Beat Saber song folder.
